@@ -1,0 +1,15 @@
+label{
+    color: skyblue;
+}
+#name, #email, #instructions {
+    border: 2px solid green;
+}
+#email{
+    background-color: blue;
+}
+.buton{
+    background-color: green;
+}
+body{
+    background-color: salmon;
+}
